@@ -236,3 +236,6 @@ This repository serves as the official landing page for Art of Illusion. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Art of Illusion today!**
+
+---
+**Last updated:** 2026-09-08 00:47:57 UTC
